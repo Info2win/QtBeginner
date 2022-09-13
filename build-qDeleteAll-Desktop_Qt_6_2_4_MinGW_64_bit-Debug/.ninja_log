@@ -1,0 +1,21 @@
+# ninja log v5
+8	240	6817457676765897	qDeleteAll_autogen/timestamp	1581ef985aec4b0e
+8	240	6817457676765897	qDeleteAll_autogen/mocs_compilation.cpp	1581ef985aec4b0e
+8	240	6817457676765897	C:/Users/ilker/Desktop/Qt/build-qDeleteAll-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/qDeleteAll_autogen/timestamp	1581ef985aec4b0e
+8	240	6817457676765897	C:/Users/ilker/Desktop/Qt/build-qDeleteAll-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/qDeleteAll_autogen/mocs_compilation.cpp	1581ef985aec4b0e
+665	2292	6817457281867221	CMakeFiles/qDeleteAll.dir/test.cpp.obj	e958ad6f1eacb024
+251	1624	6817457690629563	CMakeFiles/qDeleteAll.dir/main.cpp.obj	ffc4524e25897568
+661	2465	6817457283591441	CMakeFiles/qDeleteAll.dir/qDeleteAll_autogen/mocs_compilation.cpp.obj	690c7498abcd3c7
+1625	1764	6817457691985007	qDeleteAll.exe	cba2c1c83ac553bb
+8	188	6817457781028282	qDeleteAll_autogen/timestamp	1581ef985aec4b0e
+8	188	6817457781028282	qDeleteAll_autogen/mocs_compilation.cpp	1581ef985aec4b0e
+8	188	6817457781028282	C:/Users/ilker/Desktop/Qt/build-qDeleteAll-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/qDeleteAll_autogen/timestamp	1581ef985aec4b0e
+8	188	6817457781028282	C:/Users/ilker/Desktop/Qt/build-qDeleteAll-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/qDeleteAll_autogen/mocs_compilation.cpp	1581ef985aec4b0e
+196	1535	6817457794493256	CMakeFiles/qDeleteAll.dir/main.cpp.obj	ffc4524e25897568
+1535	1707	6817457796187588	qDeleteAll.exe	cba2c1c83ac553bb
+10	194	6817457975490210	qDeleteAll_autogen/timestamp	1581ef985aec4b0e
+10	194	6817457975490210	qDeleteAll_autogen/mocs_compilation.cpp	1581ef985aec4b0e
+10	194	6817457975490210	C:/Users/ilker/Desktop/Qt/build-qDeleteAll-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/qDeleteAll_autogen/timestamp	1581ef985aec4b0e
+10	194	6817457975490210	C:/Users/ilker/Desktop/Qt/build-qDeleteAll-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/qDeleteAll_autogen/mocs_compilation.cpp	1581ef985aec4b0e
+202	1493	6817457988476293	CMakeFiles/qDeleteAll.dir/main.cpp.obj	ffc4524e25897568
+1494	1657	6817457990090894	qDeleteAll.exe	cba2c1c83ac553bb
